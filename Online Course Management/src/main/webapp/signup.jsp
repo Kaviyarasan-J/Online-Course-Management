@@ -41,7 +41,7 @@
 </script>
 <style>
 body {
-  background-image: url('https://mypcwalls.com/wp-content/uploads/2021/08/Abstract-Wallpaper.jpg');
+  background-image: url('https://img.freepik.com/premium-photo/technology-network-background_34629-304.jpg?w=1060');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
