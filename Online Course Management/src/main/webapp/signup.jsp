@@ -49,7 +49,7 @@ body {
 </style>
 </head>
 <body>
-<%@ include file ="header.jsp" %>
+<%@include file="headeradmin.jsp" %>
 <div class="row" style="margin-left:40% ; margin-top:110px" >
 <div  class="col-sm-4">
 <form action="AddUser" method="post">

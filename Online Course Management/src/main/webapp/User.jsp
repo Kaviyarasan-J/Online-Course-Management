@@ -16,28 +16,6 @@ body {
 </style>
 </head>
 <body>
-  <%@include file="header.jsp" %>
-   <div class="row" style="margin-top:5%;margin-left:90%">
-   <div class="col-sm-4">
-   <form action="DashBoard.jsp">
-    <div>
-        <button class="btn btn-danger">Logout</button>
-    </div>
-    </form>
-    </div>
-    </div>
-  <div class="row" style="margin-top:5%;margin-left:40%">
-  <div class="col-sm-4">
-     <div align="center">
-         <a href="YourCourses.jsp"><button class="btn btn-primary btn-lg">Your Courses</button></a>
-     </div>
-     <br>
-   <form action="ViewCourses.jsp">
-   <div align="center">
-        <button class="btn btn-primary btn-lg">View Available Course</button>
-     </div>
-    </form>
-    </div>
-   </div> 
+  <%@include file="headeruser.jsp" %>
 </body>
 </html>

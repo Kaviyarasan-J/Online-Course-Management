@@ -22,6 +22,7 @@ body {
 </script>
 </head>
 <body>
+ <%@include file="headeradmin.jsp" %>
  <div class="row" style="margin-left:40% ; margin-top:80px" >
       <div class="col-sm-4">
            <form action="AddCourse" method="post" onsubmit="return fun()">

@@ -25,7 +25,7 @@ body {
 </script>
 </head>
 <body>
-    <%@include file="header.jsp" %>  
+    <%@include file="headeradmin.jsp" %>
     <% int id=Integer.parseInt(request.getParameter("id"));
     User D=UserData.getData(id);
     session.setAttribute("uid",id);%>
